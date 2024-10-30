@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { Btn } from "@/components/Button";
 
 
-import myComponent from "@/components/myComponent1/myComponent.js";
+import Title from "@/components/Title/Title.js";
 
 const kosmetikProdukt = [
   {
