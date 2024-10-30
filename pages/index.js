@@ -2,7 +2,6 @@ import styled from "styled-components";
 
 import { Btn } from "@/components/Button";
 
-import React, { useState } from "react";
 
 import myComponent from "@/components/myComponent1/myComponent.js";
 
