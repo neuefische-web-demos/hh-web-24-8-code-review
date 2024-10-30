@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-import { Btn } from "@/components/Button";
+import  Button from "@/components/Button";
 
 
 import Title from "@/components/Title/Title.js";
